@@ -3,3 +3,6 @@ https/cart.pen
 https/key.pen
 /node_modules
 .eslintrc.json
+*.json
+*.b64
+*.log
